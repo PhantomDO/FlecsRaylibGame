@@ -1,18 +1,15 @@
-[submodule "FlecsRaylib/SubModules/flecs"]
+[submodule "flecs"]
 	path = SubModules/flecs
 	url = git@github.com:SanderMertens/flecs.git
-[submodule "FlecsRaylib/SubModules/raylib"]
+[submodule "raylib"]
 	path = SubModules/raylib
 	url = git@github.com:raysan5/raylib.git
-[submodule "FlecsRaylib/SubModules/raylib-cpp"]
+[submodule "raylib-cpp"]
 	path = SubModules/raylib-cpp
 	url = git@github.com:RobLoach/raylib-cpp.git
-[submodule "FlecsRaylib/SubModules/pfr"]
+[submodule "pfr"]
 	path = SubModules/pfr
 	url = git@github.com:boostorg/pfr.git
-[submodule "FlecsRaylib/SubModules/nlohmann-json"]
-	path = SubModules/nlohmann-json
-	url = git@github.com:nlohmann/json.git
 [submodule "nlohmann-json"]
-	path = nlohmann-json
+	path = SubModules/nlohmann-json
 	url = git@github.com:nlohmann/json.git
