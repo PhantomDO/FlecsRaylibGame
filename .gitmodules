@@ -13,3 +13,6 @@
 [submodule "FlecsRaylib/SubModules/nlohmann-json"]
 	path = SubModules/nlohmann-json
 	url = git@github.com:nlohmann/json.git
+[submodule "nlohmann-json"]
+	path = nlohmann-json
+	url = git@github.com:nlohmann/json.git
